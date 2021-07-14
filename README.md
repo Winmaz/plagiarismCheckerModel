@@ -11,6 +11,6 @@ https://drive.google.com/file/d/17k0wcJH8Iu6yiN6mIQqfUofjUruTu_QK/view?usp=shari
 
 
 To run the app :
-Run the anaconda prompt and navigate to the run.py folder 
-Copy the url and paste to Chrome browser 
-Upload File
+Run the anaconda prompt and navigate to the plag.py folder 
+Copy the url after running and paste to any browser of your choice
+enter text and click button 'check plagerism'
